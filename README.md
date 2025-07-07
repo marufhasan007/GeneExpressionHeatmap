@@ -106,4 +106,4 @@ This qPCR normalization pipeline was developed as part of a gene expression stud
 ## Author
 
 **Maruf Hasan**  
-Interests: Interests: Molecular aging | Bioinformatics | Translational health research
+*Interests: Aging biology | Bioinformatics | Healthspan modeling | Translational research*
