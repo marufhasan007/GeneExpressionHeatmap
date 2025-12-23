@@ -107,3 +107,5 @@ This qPCR normalization pipeline was developed as part of a gene expression stud
 
 **Maruf Hasan**  
 DVM, MSc, Ph.D
+
+**Expertise:** Molecular Biology | Biotechnology | Gene Expression Analysis | Flowcytometry | Transcriptomics | Bioinformatics | Vitamin D Biology | Translational Research
